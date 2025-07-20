@@ -41,7 +41,7 @@ The bot features a modern, gradient-based design with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/askgem-bot.git
+   git clone https://github.com/meetpancl/askgem-bot
    cd askgem-bot
    ```
 
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or run into issues:
 
-1. Check the [Issues](https://github.com/yourusername/askgem-bot/issues) page
+1. Check the [Issues](https://github.com/meetpancl/askgem-bot/issues) page
 2. Create a new issue with detailed information
 3. Star ⭐ this repository if you found it helpful!
 

@@ -8,7 +8,7 @@ function App() {
   const [messages, setMessages] = useState([
     {
       id: 1,
-      text: "Hello! I'm **AskGem**, your AI assistant powered by Google Gemini. I can help you with:\n\n• **Questions & Answers** - Ask me anything!\n• **Code Examples** - I can write and explain code\n• **Creative Writing** - Stories, poems, ideas\n• **Problem Solving** - Let's work through challenges together\n\nHow can I help you today? 🚀",
+      text: "Hello! I'm **AskGem**, your AI assistant powered by Google Gemini.\n \nHow can I help you today? 🚀",
       sender: 'bot',
       timestamp: new Date().toLocaleTimeString()
     }
