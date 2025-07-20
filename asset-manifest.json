@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/askgem-bot/static/css/main.24b69599.css",
+    "main.js": "/askgem-bot/static/js/main.aa8061d6.js",
+    "static/js/453.cdb0ed49.chunk.js": "/askgem-bot/static/js/453.cdb0ed49.chunk.js",
+    "index.html": "/askgem-bot/index.html",
+    "main.24b69599.css.map": "/askgem-bot/static/css/main.24b69599.css.map",
+    "main.aa8061d6.js.map": "/askgem-bot/static/js/main.aa8061d6.js.map",
+    "453.cdb0ed49.chunk.js.map": "/askgem-bot/static/js/453.cdb0ed49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b69599.css",
+    "static/js/main.aa8061d6.js"
+  ]
+}
